@@ -29,9 +29,10 @@
     text-align: center;
 }
 #rocket{
-    display:flex;
-    justify-content:right;
-    align-content:flex-end;
-
+    position:relative;
+    margin-top: 250px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: ;
     
 }
